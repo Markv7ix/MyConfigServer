@@ -1,0 +1,2 @@
+# Configuration file for Spring Cloud Config Server
+url: http://localhost:8080
